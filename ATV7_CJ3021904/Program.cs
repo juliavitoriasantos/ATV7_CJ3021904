@@ -26,7 +26,7 @@
 
                     opcao = int.Parse(Console.ReadLine());
 
-                } while (opcao < 0 || opcao > 3);
+                } while (opcao < 0 || opcao > 7);
 
                 switch (opcao)
                 {
